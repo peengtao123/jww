@@ -3,7 +3,6 @@ spring:
     database: 0
     host: localhost
     port: 6379
-    password: 123456
     timeout: 0
     pool:
       max-active: 200
@@ -19,7 +18,7 @@ datasource:
   master:
     url: jdbc:mysql://localhost:3306/jww?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
     username: root
-    password: 1234
+    password: 111111
     driverClassName: com.mysql.jdbc.Driver
     initialSize: 5
     maxActive: 20
@@ -32,7 +31,7 @@ datasource:
   slaver:
       url: jdbc:mysql://localhost:3306/jww?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
       username: root
-      password: 1234
+      password: 111111
       driverClassName: com.mysql.jdbc.Driver
       initialSize: 5
       maxActive: 20

@@ -323,7 +323,7 @@ CREATE TABLE `sys_user` (
 -- ----------------------------
 -- Records of sys_user
 -- ----------------------------
-INSERT INTO `sys_user` VALUES ('1', 'admin', 'YzlhZGMyNGYwNTk3NjA1NWQ4ZjdlZWI2NzlkNzIxZDk=', '3', '管理员', 'GUANLIYUAN', '0', 'http://118.190.43.148/group1/M00/00/00/dr4rlFjNBguAfJl7AAcOE67NTFk744.png', '', '', '', '', null, null, '0000-00-00', '1', '', null, null, '0', '1', '', '2016-05-06 10:06:52', '1', '2017-12-31 22:28:48', '1');
+INSERT INTO `sys_user` VALUES ('1', 'admin', 'YzlhZGMyNGYwNTk3NjA1NWQ4ZjdlZWI2NzlkNzIxZDk=', '3', '管理员', 'GUANLIYUAN', '0', 'http://118.190.43.148/group1/M00/00/00/dr4rlFjNBguAfJl7AAcOE67NTFk744.png', '', '', '', '', null, null, '2016-05-06', '1', '', null, null, '0', '1', '', '2016-05-06 10:06:52', '1', '2017-12-31 22:28:48', '1');
 
 -- ----------------------------
 -- Table structure for sys_user_menu
